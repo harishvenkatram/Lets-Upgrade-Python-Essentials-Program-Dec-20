@@ -1,0 +1,84 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled49.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNffMOxYwyLZwBnTbI8KXo7",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/harishvenkatram/Lets-Upgrade-Python-Essentials-Program-Dec-20/blob/main/Day%203%20Assignment-10th%20Dec'20%20Solution\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "1yPDt4zqtb-D"
+      },
+      "source": [
+        "#Question 1\r\n",
+        "#Use IF ELSE and ELIF to write a program in python for your Report Cards.\r\n",
+        "\r\n",
+        "#Solution\r\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "1qN-vH-Jubsd"
+      },
+      "source": [
+        "#Question 2\r\n",
+        "#Use For Loop to Print Prime Numbers in between 1 to 1000\r\n",
+        "\r\n",
+        "#Solution\r\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "bBt_HWWOulTc"
+      },
+      "source": [
+        "#Question 3\r\n",
+        "#Write a program for printing the tables from 1,10 using Nested For Loop\r\n",
+        "\r\n",
+        "#Solution\r\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "HKIEf7KHutVJ"
+      },
+      "source": [
+        "#Question 4\r\n",
+        "#Write a program to Print X Prime Numbers using While Loop starting from 0, and take the INput of X from the user\r\n",
+        "\r\n",
+        "#Solution\r\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
